@@ -32,8 +32,8 @@ export const roleSkills = {
     },
     {
       category: "DevOps",
-      description: "Containerization and delivery workflows",
-      skills: ["Docker", "CI/CD"]
+      description: "Containerization, delivery, and hosting platforms",
+      skills: ["Docker", "CI/CD", "Render", "Vercel"]
     }
   ],
   fullstack: [
@@ -69,8 +69,8 @@ export const roleSkills = {
     },
     {
       category: "DevOps",
-      description: "Containerization and delivery workflows",
-      skills: ["Docker", "CI/CD"]
+      description: "Containerization, delivery, and hosting platforms",
+      skills: ["Docker", "CI/CD", "Render", "Vercel"]
     }
   ],
   devops: [
@@ -91,8 +91,8 @@ export const roleSkills = {
     },
     {
       category: "Deployment & Infrastructure",
-      description: "Application deployment, runtime configs & databases",
-      skills: ["Dockerized Deployment", "PostgreSQL Administration", "Nginx Basics"]
+      description: "Application deployment, hosting platforms, runtime configs & databases",
+      skills: ["Render", "Vercel", "Dockerized Deployment", "PostgreSQL Administration", "Nginx Basics"]
     },
     {
       category: "Workflow & VCS",
